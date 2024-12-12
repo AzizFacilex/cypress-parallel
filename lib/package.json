@@ -1,11 +1,11 @@
 {
-  "name": "cypress-parallel",
-  "version": "0.14.0",
+  "name": "cypress-parallel-extended",
+  "version": "1.0.4",
   "description": "Reduce up to 40% your Cypress suite execution time parallelizing the test run on the same machine.",
   "main": "cli.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnicola/cypress-parallel.git"
+    "url": "git+https://github.com/AzizFacilex/cypress-parallel.git"
   },
   "keywords": [
     "cypress",
@@ -23,8 +23,8 @@
     "cypress-parallel": "./cli.js"
   },
   "dependencies": {
-    "cli-table3": "^0.6.0",
     "@colors/colors": "^1.5.0",
+    "cli-table3": "^0.6.0",
     "cross-spawn": "^7.0.3",
     "fs-extra": "^10.0.0",
     "glob-escape": "^0.0.2",
