@@ -1,6 +1,6 @@
 {
   "name": "cypress-parallel-extended",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Reduce up to 40% your Cypress suite execution time parallelizing the test run on the same machine.",
   "main": "cli.js",
   "type": "module",
